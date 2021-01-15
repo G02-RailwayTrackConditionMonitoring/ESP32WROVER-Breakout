@@ -38,40 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=G02_WSN.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UBBAXOQK
-
-[Document2]
-DocumentPath=G02_WSN.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VYUFGCJU
-
-[Document3]
 DocumentPath=ESP32-WROVER Dev Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,8 +54,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSHJYTPM
 
-[Document4]
-DocumentPath=ESP32-WROVER Breakout Board.PcbDoc
+[Document2]
+DocumentPath=ESP32 WROVER Breakout.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,100 +70,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISEWWXGR
-
-[Document5]
-DocumentPath=logo.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VKLSHTGS
-
-[Document6]
-DocumentPath=G02_WSN.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for G02_WSN\Copy of ESP32-WROVER Breakout Board narrower.TXT
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
